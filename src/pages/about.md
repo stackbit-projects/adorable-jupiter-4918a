@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me
+subtitle: This is a short page about me.
 img_path: images/about.jpg
 template: page
 ---
